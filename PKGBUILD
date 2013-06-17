@@ -6,7 +6,6 @@ pkgdesc="A simple script to list old package archives"
 arch=('any')
 url="https://github.com/ryenus/$pkgname"
 license=('GPL')
-#install=$pkgname.install
 source=($pkgname)
 
 package() {
